@@ -59,7 +59,7 @@ services:
 Inspect the installation with the following command. The requested Xdebug
 version should be displayed in the output.
 
-```console
+```bash
 $ docker-compose exec php php --version
 
 PHP …

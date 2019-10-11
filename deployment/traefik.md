@@ -362,7 +362,7 @@ volumes:
 ```
 
 Finally, some environment variables must be defined, here is an example of a `.env` file to set them: 
-```dotenv
+```
 CONTAINER_REGISTRY_BASE=quay.io/api-platform
 DOMAIN_NAME=localhost
 HTTP_OR_SSL=http://
